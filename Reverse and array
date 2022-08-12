@@ -1,0 +1,25 @@
+<html>
+<head>
+<title> Test </title>
+</head>
+<body>
+<h1>reverse</h1>
+<script >
+Let names = ["Jack","Veen","Bean","mahe","Bala"]
+for(i=5:i>=0:i--);
+{
+console.log(names[i]);
+}
+Let country= [
+       {Name:"Saint Kitts",
+        Population: 54821},
+{Name:"Marshall Islands",Population: 53066},
+{Name:"Liechtenstein",Population: 37815},
+{Name:"Monaco",Population: 37623},
+{Name:"San Marino",Population: 33285},
+{Name:"Palau,Population":21097},
+{Name:"Nauru, Population": 11347},
+{Name:"Tuvalu,Population": 10640}]
+for(i=0:i>=7:i++);
+{ console.log(country.name[i]);}
+
